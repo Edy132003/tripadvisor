@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\firstaspnetcorewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\firstaspnetcorewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\controllers\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\controllers\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\views\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\views\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\models\\facilityviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\models\\facilityviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\models\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\models\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|d:\\tripadvisor\\firstaspnetcorewebapp\\firstaspnetcorewebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{38488A73-63D5-4D66-9A5E-CCFAB906DDCC}|FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj|solutionrelative:firstaspnetcorewebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstAspNetCoreWebApp.csproj",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T12:47:04.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacilityController.cs",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Controllers\\FacilityController.cs",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Controllers\\FacilityController.cs",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Controllers\\FacilityController.cs",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Controllers\\FacilityController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAEwLIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:48:38.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:46:35.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAowPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:48:54.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Login.cshtml",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Views\\Login.cshtml",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Login.cshtml",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Views\\Login.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T12:54:39.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Register.cshtml",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Views\\Register.cshtml",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Register.cshtml",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Views\\Register.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T12:54:23.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacilityViewModels.cs",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Models\\FacilityViewModels.cs",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Models\\FacilityViewModels.cs",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Models\\FacilityViewModels.cs",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Models\\FacilityViewModels.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:40:58.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Domain.cs",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Models\\Domain.cs",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Models\\Domain.cs",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Models\\Domain.cs",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Models\\Domain.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAYwGUBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:36:01.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Models\\AccountViewModels.cs",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Models\\AccountViewModels.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:37:39.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAiwLgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:47:38.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T12:53:16.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAowJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T12:52:48.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAowKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T12:52:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T12:49:49.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T12:49:30.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FirstAspNetCoreWebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\TripADVISOR\\FirstAspNetCoreWebApp\\FirstAspNetCoreWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FirstAspNetCoreWebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-17T12:41:48.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
